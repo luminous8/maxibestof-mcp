@@ -64,3 +64,9 @@ installation is included.
 - [Terms and privacy](https://maxibestof.one/legals)
 
 Created by Bertrand Bruandet. Contact: bertrand@maxibestof.one.
+
+## License
+
+The connection configuration and documentation use the [MIT license](LICENSE).
+The MaxiBestOf name, logo, hosted service, private source, and library content
+are excluded from that license.
